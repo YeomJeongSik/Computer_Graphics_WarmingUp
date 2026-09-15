@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WarmingUp.vcxproj" Id="ba66b56d-4eb5-477c-ade8-29322b2d128d" />
+</Solution>
